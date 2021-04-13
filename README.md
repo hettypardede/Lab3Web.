@@ -1,2 +1,16 @@
 # Lab3Web.
 Tugas Pemograman Web
+![satu](https://user-images.githubusercontent.com/81575340/114533342-a6f6ec80-9c02-11eb-9eeb-2d79ff605f6a.png)
+![dua](https://user-images.githubusercontent.com/81575340/114533425-bc6c1680-9c02-11eb-926b-8b2bf57fdb5e.png)
+![tiga](https://user-images.githubusercontent.com/81575340/114533480-c9890580-9c02-11eb-9f7a-ca6b83a4c8f7.png)
+![4](https://user-images.githubusercontent.com/81575340/114533518-d1e14080-9c02-11eb-8298-9d13a97bf745.png)
+![5](https://user-images.githubusercontent.com/81575340/114533551-d9a0e500-9c02-11eb-895f-71939a6a877c.png)
+![6](https://user-images.githubusercontent.com/81575340/114533573-e02f5c80-9c02-11eb-9145-fd66b2e476fa.png)
+![7](https://user-images.githubusercontent.com/81575340/114533603-e8879780-9c02-11eb-8871-a90815ba2a45.png)
+![8](https://user-images.githubusercontent.com/81575340/114533621-ef160f00-9c02-11eb-8f3f-b306cda07a43.png)
+![9](https://user-images.githubusercontent.com/81575340/114533650-f89f7700-9c02-11eb-8c33-6f04c731eaf2.png)
+![10](https://user-images.githubusercontent.com/81575340/114533686-01904880-9c03-11eb-9977-f82bd6d4b379.png)
+![11](https://user-images.githubusercontent.com/81575340/114533706-09e88380-9c03-11eb-92c2-e080eeb6ae44.png)
+![12](https://user-images.githubusercontent.com/81575340/114533731-1371eb80-9c03-11eb-8bd0-2eea2becc6cb.png)
+![13](https://user-images.githubusercontent.com/81575340/114533770-1cfb5380-9c03-11eb-93dd-988e8548bba5.png)
+![14](https://user-images.githubusercontent.com/81575340/114533790-2389cb00-9c03-11eb-8efb-85783a4c3870.png)
